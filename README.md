@@ -1,7 +1,7 @@
 # Hi, I'm Akshay
 
 **Finance Analyst | Credit & Risk | Quant & Data Analytics**
-MS Finance (STEM), University of Delaware, 2026 | Bengaluru, India
+MS Finance (STEM), University of Delaware, 2026 | Newark, DE
 
 I turn macro and market data into models, risk views, and decisions people can act on. Before graduate school I spent about 2 years and 9 months in regulatory quality control, where accuracy, traceability, and audit trails were the job. I bring the same discipline to every model I build.
 
@@ -24,8 +24,9 @@ All projects use public data (FRED, Yahoo Finance, Macrotrends) and say so in ea
 Python (pandas, statsmodels, matplotlib) | R | Excel | Power BI | Tableau | Bloomberg Terminal
 
 ## Education and credentials
-- MS Finance (STEM), University of Delaware, Lerner College
+- MS Finance (STEM), University of Delaware, Lerner College, CGPA 3.53/4.00
 - B.Com, Surana College (Autonomous), CGPA 8.55/10
 - Bloomberg Market Concepts | Goldman Sachs Risk (Forage)
 
-📍 Bengaluru, India  🔗 [LinkedIn](https://www.linkedin.com/in/akshayrao881)
+📍 Newark, DE
+🔗 [LinkedIn](https://www.linkedin.com/in/akshayrao881)
